@@ -1,6 +1,6 @@
 ## Olá! Eu sou Letícia Viana
 
-- 🔭 Hoje eu estou estágiando com front-end
+- 🔭 Hoje estou estagiando com front-end
 - 🌱 Estudando JavaScript 
 - 😄 Pronouns: Ela/Dela
 
