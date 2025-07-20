@@ -20,7 +20,7 @@ const aboutMe = {
 };
 ```
 
-## `>_ _MY STATS`
+## `>__MY STATS`
 
 <div align="center">
   <a href="https://github.com/leticiaviana">
