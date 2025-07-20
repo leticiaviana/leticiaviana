@@ -47,11 +47,7 @@ const aboutMe = {
 
 ## `>_CONNECT WITH ME`
 <div> <a href="https://www.linkedin.com/in/let%C3%ADcia-viana-660861212/" target="_blank"> <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" alt="LinkedIn"> </a> <a href="https://discord.com/users/[yourID]" target="_blank"> <img src="https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000" alt="Discord"> </a> <a href="mailto:your@email.com"> <img src="https://img.shields.io/badge/-EMAIL-FF2A6D?style=for-the-badge&logo=mail.ru&logoColor=white&labelColor=000" alt="Email"> </a> </div>
-  
-  <div>
-    <a href="https://www.linkedin.com/in/let%C3%ADcia-viana-660861212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-  
+
 
   
           
