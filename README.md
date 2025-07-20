@@ -20,7 +20,7 @@ const aboutMe = {
 };
 ```
 
-## `>__MY STATS`
+## `>_MY STATS`
 
 <div align="center">
   <a href="https://github.com/leticiaviana">
@@ -28,7 +28,7 @@ const aboutMe = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaviana&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ##
+## `>_TECH STACK`
   
 <div style="display: inline_block;padding-bottom: 20px;"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -44,6 +44,9 @@ const aboutMe = {
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
   
   ##
+
+## `>_CONNECT WITH ME`
+<div> <a href="https://www.linkedin.com/in/let%C3%ADcia-viana-660861212/" target="_blank"> <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" alt="LinkedIn"> </a> <a href="https://discord.com/users/[yourID]" target="_blank"> <img src="https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000" alt="Discord"> </a> <a href="mailto:your@email.com"> <img src="https://img.shields.io/badge/-EMAIL-FF2A6D?style=for-the-badge&logo=mail.ru&logoColor=white&labelColor=000" alt="Email"> </a> </div>
   
   <div>
     <a href="https://www.linkedin.com/in/let%C3%ADcia-viana-660861212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
