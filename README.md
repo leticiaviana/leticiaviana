@@ -1,10 +1,24 @@
-## Olá! Eu sou Letícia Viana
+#  ⚡ _HELLO WORLD, I'M LETÍCIA VIANA_ ⚡ 
 
-- 🔭 Hoje estou estagiando com front-end
-- 🌱 Estudando JavaScript 
-- 😄 Pronouns: Ela/Dela
+`// FRONT-END DEVELOPER | CYBERPUNK ENTHUSIAST | CODE GLITCHER`
 
-##
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/971537642724393030/1044722973753487440/Design_sem_nome.gif" width="150" style="border-radius: 50px; border: 2px solid #BC00DD; box-shadow: 0 0 15px #FF2A6D;">
+</div>
+
+## `>_ ABOUT ME`
+- 🔭 **Currently**: `Front-end Intern` @ `[Company]`  
+- 🌱 **Hacking**: `JavaScript` `TypeScript` `React.js`  
+- ⚡ **Fun fact**: `I make code glitch on purpose`  
+- 🎮 **Pronouns**: `Ela/Dela` `She/Her`  
+
+```js
+const aboutMe = {
+  code: ['FrontEnd', 'UI Effects', 'Cyberpunk Aesthetics'],
+  tools: ['VSCode', 'Neon Themes', 'Synthwave Playlists'],
+  learning: ['Advanced JS', 'Three.js', 'Shader Magic']
+};
+```
 
 <div align="center">
   <a href="https://github.com/leticiaviana">
