@@ -7,16 +7,17 @@
 </div>
 
 ## `>_ ABOUT ME`
-- 🔭 **Currently**: `Front-end Intern` @ `[Company]`  
-- 🌱 **Hacking**: `JavaScript` `TypeScript` `React.js`  
+- 🔭 **Currently**: `Desenvolvedora Front-End` @ `Informata`  
+- 🌱 **Hacking**: `Full Stack` `Angular` `Java`  
 - ⚡ **Fun fact**: `I make code glitch on purpose`  
 - 🎮 **Pronouns**: `Ela/Dela` `She/Her`  
 
 ```js
 const aboutMe = {
-  code: ['FrontEnd', 'UI Effects', 'Cyberpunk Aesthetics'],
-  tools: ['VSCode', 'Neon Themes', 'Synthwave Playlists'],
-  learning: ['Advanced JS', 'Three.js', 'Shader Magic']
+  code: ['Front-End', 'UI Interactions', 'Projetos com Propósito'],
+  tools: ['VSCode', 'Angular', 'Terminal Hacker'],
+  passions: ['Cyberpunk Worlds', 'Arcane Vibes', 'Construir o Impossível'],
+  learning: ['Back-End com Java e Node', 'Design de Sistemas', 'Arquitetura de Software']
 };
 ```
 
@@ -28,20 +29,45 @@ const aboutMe = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaviana&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-## `>_TECH STACK`
-  
-<div style="display: inline_block;padding-bottom: 20px;"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-Python" height="150" style="border-radius: 50px"   src="https://cdn.discordapp.com/attachments/971537642724393030/1044722973753487440/Design_sem_nome.gif">
- </div>
-  
-  <br>
-  
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+## `>_ TECH STACK`
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Angular" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="HTML5" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="Tailwind" height="30" width="40"
+       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+  <img align="center" alt="Git" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img align="center" alt="Python" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Docker" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img align="center" alt="PostgreSQL" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="React" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="NestJS" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
+</div>
+
+<br>
+
+### `>_TOOLS`:
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css)
+![PrimeNG](https://img.shields.io/badge/-PrimeNG-0062B1?style=flat-square&logo=prime)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+
   
   ##
 
