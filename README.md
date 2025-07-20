@@ -27,7 +27,6 @@ const aboutMe = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiaviana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaviana&layout=compact&langs_count=7&theme=dark"/>
 </div>
-## `>_LAST UPDATE` : ${new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
   
 ## `>_TECH STACK`
   
